@@ -12,13 +12,13 @@ This user interface provides different search/filter options:
     You can key in any of the search box for the relevant information  and it should show up with results in tabular format for the corresponding value. 
 
     
-    Put the pictures ON
+    https://github.com/asitkumar26/UFOs/blob/main/images/SingleFieldSearch.PNG
 
     - Filter through multiple search boxes:
 
     You can key in multiple search boxes for the relevant informations and it should show up with results in tabular format for the corresponding values. 
 
-    Put the pictures ON
+    https://github.com/asitkumar26/UFOs/blob/main/images/MultipleFieldSearch.PNG
 
 ## Summary:
 ### Drawbacks:
